@@ -1,2 +1,1 @@
-#HIIIIIIIIIIIII
-hello
+#! /usr/bin/python3
