@@ -1,1 +1,1 @@
-#FUNCTIONS
+#! /usr/bin/python3#FUNCTIONS
